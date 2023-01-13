@@ -2,10 +2,10 @@
 
 ## How to start the project
 
-### 1. Import the project in your IDE
-2. Run Script present in Database folder make sure database name is test
-4. Run Spring project
-5. Open PostMan and use following request
+##### 1. Import the project in your IDE
+##### 2. Run Script present in Database folder make sure database name is test
+##### 4. Run Spring project
+##### 5. Open PostMan and use following request
 	
 	a) for saving data
 		path = http://localhost:2626/savingData
