@@ -1,8 +1,8 @@
 # test
 
-##How to start the project
+## How to start the project
 
-###1. Import the project in your IDE
+### 1. Import the project in your IDE
 2. Run Script present in Database folder make sure database name is test
 4. Run Spring project
 5. Open PostMan and use following request
